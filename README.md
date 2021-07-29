@@ -1,4 +1,4 @@
-Merhbalar,
+Merhabalar,
 Ben Osman Kocaer;
 8 senedir Torku bünyesinde yazılım, teknik destek, drone uçurma harita yapma, ağ kurulumu ve yönetimi vb işler ile ilgilenmekteyim.
 Yazılım olarak C# dilinde uygulamalar geliştirmekteyim. Kantar uygulamaları , analiz uygulamaları, cihazlarda veri okuma vb.
